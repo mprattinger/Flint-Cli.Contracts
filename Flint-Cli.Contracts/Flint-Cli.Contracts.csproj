@@ -3,7 +3,7 @@
   <PropertyGroup>
     <TargetFramework>netcoreapp2.0</TargetFramework>
     <RootNamespace>FlintCli.Contracts</RootNamespace>
-    <PackageVersion>1.0.1-alpha</PackageVersion>
+    <PackageVersion>1.0.2-alpha</PackageVersion>
     <Authors>MPrattinger</Authors>
     <Description>Contracts for the Flint-Cli</Description>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
